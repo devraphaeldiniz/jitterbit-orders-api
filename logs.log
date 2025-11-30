@@ -1,0 +1,16 @@
+{"level":"info","message":"::1 - - [30/Nov/2025:14:39:40 +0000] \"POST /auth/login HTTP/1.1\" 401 29 \"-\" \"curl/8.16.0\"","timestamp":"2025-11-30T14:39:40.956Z"}
+{"level":"info","message":"::1 - - [30/Nov/2025:14:42:08 +0000] \"POST /auth/login HTTP/1.1\" 401 29 \"-\" \"curl/8.16.0\"","timestamp":"2025-11-30T14:42:08.846Z"}
+{"level":"error","timestamp":"2025-11-30T14:43:57.194Z"}
+{"level":"info","message":"::1 - - [30/Nov/2025:14:43:57 +0000] \"POST /auth/login HTTP/1.1\" 500 38 \"-\" \"curl/8.16.0\"","timestamp":"2025-11-30T14:43:57.200Z"}
+{"level":"info","message":"::1 - - [30/Nov/2025:14:45:02 +0000] \"POST /auth/login HTTP/1.1\" 500 381 \"-\" \"curl/8.16.0\"","timestamp":"2025-11-30T14:45:02.906Z"}
+{"level":"info","message":"::1 - - [30/Nov/2025:14:46:40 +0000] \"POST /auth/login HTTP/1.1\" 200 233 \"-\" \"curl/8.16.0\"","timestamp":"2025-11-30T14:46:40.217Z"}
+{"level":"info","message":"::1 - - [30/Nov/2025:14:47:16 +0000] \"GET /order/list HTTP/1.1\" 200 179 \"-\" \"curl/8.16.0\"","timestamp":"2025-11-30T14:47:16.087Z"}
+{"level":"info","message":"::1 - - [30/Nov/2025:14:47:26 +0000] \"GET /order/list HTTP/1.1\" 200 179 \"-\" \"curl/8.16.0\"","timestamp":"2025-11-30T14:47:26.163Z"}
+{"level":"info","message":"::1 - - [30/Nov/2025:14:47:34 +0000] \"POST /order HTTP/1.1\" 401 29 \"-\" \"curl/8.16.0\"","timestamp":"2025-11-30T14:47:34.490Z"}
+{"level":"info","message":"::1 - - [30/Nov/2025:14:51:10 +0000] \"POST /auth/login HTTP/1.1\" 200 233 \"-\" \"curl/8.16.0\"","timestamp":"2025-11-30T14:51:10.295Z"}
+{"level":"info","message":"::1 - - [30/Nov/2025:14:52:29 +0000] \"GET /order/list HTTP/1.1\" 200 179 \"-\" \"curl/8.16.0\"","timestamp":"2025-11-30T14:52:29.439Z"}
+{"level":"info","message":"::1 - - [30/Nov/2025:14:52:42 +0000] \"GET /order/v10089015vdb-01 HTTP/1.1\" 401 32 \"-\" \"curl/8.16.0\"","timestamp":"2025-11-30T14:52:42.635Z"}
+{"level":"info","message":"::1 - - [30/Nov/2025:14:53:09 +0000] \"GET /order/v10089015vdb-01 HTTP/1.1\" 200 182 \"-\" \"curl/8.16.0\"","timestamp":"2025-11-30T14:53:09.403Z"}
+{"level":"info","message":"::1 - - [30/Nov/2025:14:53:18 +0000] \"POST /order HTTP/1.1\" 201 39 \"-\" \"curl/8.16.0\"","timestamp":"2025-11-30T14:53:18.913Z"}
+{"level":"info","message":"::1 - - [30/Nov/2025:14:53:26 +0000] \"GET /order/pedidoJWT-01 HTTP/1.1\" 200 165 \"-\" \"curl/8.16.0\"","timestamp":"2025-11-30T14:53:26.117Z"}
+{"level":"info","message":"::1 - - [30/Nov/2025:14:53:33 +0000] \"POST /order HTTP/1.1\" 400 33 \"-\" \"curl/8.16.0\"","timestamp":"2025-11-30T14:53:33.575Z"}
