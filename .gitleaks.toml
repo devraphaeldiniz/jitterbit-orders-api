@@ -1,0 +1,6 @@
+title = "Gitleaks config for jitterbit-orders-api"
+
+[allowlist]
+description = "Placeholder token em exemplos de curl no README"
+paths = ["README.md"]
+regexes = ['SEU_TOKEN']
