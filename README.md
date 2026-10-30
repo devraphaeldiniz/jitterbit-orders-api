@@ -61,7 +61,7 @@ Crie um arquivo `.env` na raiz do projeto:
 ```env
 SUPABASE_URL=https://SEU_PROJETO.supabase.co
 SUPABASE_KEY=CHAVE_ANON_PUBLIC
-JWT_SECRET=minhasupersecreta123
+JWT_SECRET=troque_por_um_segredo_forte
 PORT=3000
 ```
 
